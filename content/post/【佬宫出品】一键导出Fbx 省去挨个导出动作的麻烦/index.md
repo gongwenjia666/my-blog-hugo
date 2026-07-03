@@ -12,7 +12,7 @@ tags:
   - 导出
 categories:
   - MAXScript
-image: cover.jpg
+image:
 ---
 软件：3ds max  
 版本：2010以上  

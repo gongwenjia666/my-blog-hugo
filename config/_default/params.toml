@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "老宫记录生活与技术，分享点滴"
     avatar   = "img/avatar.png"
 
 [article]

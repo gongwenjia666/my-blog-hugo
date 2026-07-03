@@ -7,14 +7,6 @@
 #icon = "home"
 #newtab = true
 
-[[main]]
-identifier = "home"
-name = "主页"
-url = "/"
-[main.params]
-icon = "home"
-newtab = true
-
 [[social]]
     identifier = "github"
     name       = "GitHub"

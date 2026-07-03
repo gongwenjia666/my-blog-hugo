@@ -12,6 +12,7 @@ tags:
   - 物理碰撞
 categories:
   - MAXScript
+image: cover.jpg
 ---
 软件：3ds max  
 版本：all  

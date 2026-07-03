@@ -15,10 +15,10 @@ categories:
 image: cover.jpg
 ---
 软件：3ds max  
-版本：all  
+版本：2010以上  
 分类：脚本  
 下载地址：  
-[https://kvault.gongwenjia.dpdns.org/file/github:github_1783041444678_a6c3s9.ms]()  
+https://kvault.gongwenjia.dpdns.org/file/github:github_1783041444678_a6c3s9.ms
 
 虽然是老白做的，但是很不喜欢脚本上的各种图标，还要和图标文件夹一起复制，启动速度很慢，
 所以给净化掉了，莫怪！！！  

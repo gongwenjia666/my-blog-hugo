@@ -1,7 +1,7 @@
 ---
 title: 【佬宫出品】Spring Max 碰撞飘带 白严宾净化版
 date: 2026-07-03
-description: 分享 3ds Max MAXScript 脚本，用于提高建模、动画和渲染工作效率。
+description: 让动画更自然，一键应用弹簧效果，简化 3ds Max 动力学制作流程。
 tags:
   - 3dsMax
   - MAXScript

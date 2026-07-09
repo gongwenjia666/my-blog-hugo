@@ -1,7 +1,7 @@
 ---
 title: 【3dmax技法】BIP肩膀位移方法
 date: 2026-07-03
-description: 分享 3ds Max  脚本 技法，用于提高建模、动画和渲染工作效率。
+description: 3dsMax Biped肩膀位移技巧，讲解骨骼动画中肩膀、胸部等部位的位移方法。
 tags:
   - 3dsMax
   - 动画

@@ -1,7 +1,7 @@
 ---
 title: 【Unity】UnityHubSetup.v3.14.5海外安装包
 date: 2026-07-06
-description: 分享 3ds Max  脚本 技法，用于提高建模、动画和渲染工作效率。
+description: 避免 Unity Hub 卡顿，一键屏蔽更新，让开发更顺畅。
 tags:
   - unity
   - hub

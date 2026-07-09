@@ -1,7 +1,7 @@
 ---
 title: 【佬宫出品】一键导出Fbx 省去挨个导出动作的麻烦
 date: 2026-07-03
-description: 分享 3ds Max MAXScript 脚本，用于提高建模、动画和渲染工作效率。
+description: 省去繁琐操作，一键导出 FBX，让 3ds Max 动画制作更高效。
 tags:
   - 3dsMax
   - MAXScript

@@ -17,6 +17,6 @@ Bip大多数人都不知道可以做位移的，这里讲述了如何制作位�
 
 <video src="https://kvault.gongwenjia.dpdns.org/file/github:github_1783070661500_w5imrb.mp4" 
        controls 
-       width="600">
+       width="800">
   您的浏览器不支持 video 标签。
 </video>

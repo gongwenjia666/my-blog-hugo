@@ -42,7 +42,7 @@ image:
 ---
 
 ## 🏠 个人链接
-- - [光鸭云盘](https://www.guangyapan.com/#/home/all)— 在线网盘
+- [光鸭云盘](https://www.guangyapan.com/#/home/all)— 在线网盘
 
 ---
 

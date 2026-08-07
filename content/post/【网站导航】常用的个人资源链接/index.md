@@ -2,9 +2,13 @@
 title: 【网站导航】常用的个人资源链接
 date: 2026-08-05
 description: 这里整理了常用的开发、设计与个人资源链接。
-draft: "true"
-hidden: "true"
-image:
+draft: "false"
+
+build:
+  list: never      # 关键：不加入任何页面集合，列表页不会列出，但页面依然渲染输出
+
+sitemap:
+  disable: true    # 可选：不放进sitemap，搜索引擎不容易抓到这页
 ---
 
 # 🌐 网站导航

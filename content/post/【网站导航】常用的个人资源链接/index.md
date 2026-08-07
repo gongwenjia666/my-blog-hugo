@@ -22,7 +22,7 @@ sitemap:
 - [LDS英雄 士兵 怪物动作需求](https://elex-work.feishu.cn/wiki/IFwEweq4cikV8ak7oincfKxZnLa?sheet=YeRqKM)
 - [LDS美术资源提交表](https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tblD6yh9H7Qlk7Kw&view=vewtGeFTlE)
 - [‍‌​​‌​​﻿​﻿﻿​​‬‌​​​‍‍⁠​​‌​‬​​﻿​​​​⁠​﻿​‬​‍​​​​‬​​​‬﻿TWD美术资源提交](https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tblqOFc7ZrwFUMOI&view=vewTyqKJIH)
-- [智星中枢](https://ai.elex-tech.com/)— 智明星通AI系统。
+- [智明星通AI系统](https://ai.elex-tech.com/)— 智明星通AI系统。
 - [AI-Spine拆图补图](http://zhongtai-ai.elexapp.com/api/see-through/ui)— AI自动拆图补图。
 - [AI 抠图](http://zhongtai-ai.elexapp.com/api/ai-rembg/ui)— AI自动去除背景。
 - [AI 游戏美术设计入口](http://10.1.4.130:8080/)— 智明星通AI系统。

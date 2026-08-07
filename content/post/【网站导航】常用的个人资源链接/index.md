@@ -17,7 +17,7 @@ sitemap:
 
 ---
 
-## 🧩 ELEX
+## 💻 ELEX
 - [工作排期](https://elex-work.feishu.cn/wiki/VE8SwPCtZiYv8mkkg01cqegqnch) — 2026工作排期。
 - [LDS英雄 士兵 怪物动作需求](https://elex-work.feishu.cn/wiki/IFwEweq4cikV8ak7oincfKxZnLa?sheet=YeRqKM)
 - [LDS美术资源提交表](https://elex-work.feishu.cn/base/ODl1bLZHsaU9VDsdBKCcQ4CBn1d?table=tblD6yh9H7Qlk7Kw&view=vewtGeFTlE)
